@@ -1,0 +1,23 @@
+body {
+    background: #8500de;
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 2em;
+    color: #000;
+}
+p {
+    font-size: 1em;
+    color: #000;
+}
+button {
+    background-color: #000;
+    color: #fff;
+    font-size: 1em;s
+    width: 100px;
+    height: 50px;
+}
+.corpo {
+    padding-top: 100px;
+    text-align: center;
+}
